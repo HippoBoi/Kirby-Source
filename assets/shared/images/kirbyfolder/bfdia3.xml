@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfdia3.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf dialogue0000" x="0" y="0" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0001" x="1292" y="0" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0002" x="2584" y="0" width="1295" height="738"/>
+	<SubTexture name="bf dialogue0003" x="0" y="738" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0004" x="1292" y="738" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0005" x="2584" y="738" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0006" x="0" y="1476" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0007" x="1292" y="1476" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0008" x="2584" y="1476" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0009" x="0" y="2214" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0010" x="1292" y="2214" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0011" x="1292" y="2214" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0012" x="2584" y="2214" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0013" x="2584" y="2214" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0014" x="0" y="2952" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0015" x="0" y="2952" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0016" x="1292" y="2952" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0017" x="1292" y="2952" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0018" x="2584" y="2952" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0019" x="2584" y="2952" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0020" x="0" y="3690" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0021" x="0" y="3690" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0022" x="1292" y="3690" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0023" x="1292" y="3690" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+	<SubTexture name="bf dialogue0024" x="2584" y="2214" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="738"/>
+</TextureAtlas>
